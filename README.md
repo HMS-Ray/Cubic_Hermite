@@ -1,2 +1,3 @@
 # Cubic_Hermite
 Hermite插值法的实现
+本代码用于实现Herimite插值法来对已知关键期限之间的期限点的收益率进行估计，cubic_hermite文件为代码，而cubic_hermite_test文件为测试文件。
